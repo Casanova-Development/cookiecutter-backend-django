@@ -1,0 +1,1 @@
+"""Urls for application Accounts."""

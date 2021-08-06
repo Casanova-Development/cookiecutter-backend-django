@@ -1566,6 +1566,13 @@ Listed in alphabetical order.
     </td>
     <td></td>
   </tr>
+  <tr>
+    <td>Guillermo Casanova</td>
+    <td>
+      <a href="https://github.com/gjcasanova">gjcasanova</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 ### Special Thanks
